@@ -1,6 +1,6 @@
-#Notion Almost Clone
+### Notion Almost Clone
 
-Notion app have a quiet beautiful ui and ux , with keeping in mind the ease of use. I have used notion in the past and even used now , I always wanted to create something like that but didn't know what it would take to build such an app. Then after while in my coding jouney , i found out i can make it with react. Since javascript was my favorite languages (**no offense) , It would be fun to actually make it as a side project, so here am I.
+Notion app have a quiet beautiful ui and ux , with keeping in mind the ease of use. I have used notion in the past and even use now , I always wanted to create something like that but didn't know what it would take to build such an app. Then after while in my coding jouney , i found out i can make it with react. Since javascript was my favorite languages (**no offense) , It would be fun to actually make it as a side project, so here am I.
 
 
 
